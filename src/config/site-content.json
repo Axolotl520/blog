@@ -1,0 +1,86 @@
+{
+	"meta": {
+		"title": "CupOfLaugh",
+		"description": "Gloomoon 的个人博客",
+		"username": "Gloomoon"
+	},
+	"theme": {
+		"colorBrand": "#35bfab",
+		"colorPrimary": "#334f52",
+		"colorSecondary": "#7b888e",
+		"colorBrandSecondary": "#1fc9e7",
+		"colorBg": "#eeeeee",
+		"colorBorder": "#ffffff",
+		"colorCard": "#ffffff66",
+		"colorArticle": "#ffffffcc"
+	},
+	"backgroundColors": [
+		"#ffa7fa",
+		"#ffa3d8",
+		"#ffabaf",
+		"#ffc089",
+		"#ffdc70",
+		"#f9f871"
+	],
+	"artImages": [
+		{
+			"id": "cat",
+			"url": "/images/art/cat.png"
+		},
+		{
+			"id": "a46372ff45bc5524",
+			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "2c055dfbf842d196",
+			"url": "/images/art/2c055dfbf842d196.jpg"
+		}
+	],
+	"currentArtImageId": "2c055dfbf842d196",
+	"backgroundImages": [
+		{
+			"id": "",
+			"url": ""
+		},
+		{
+			"id": "0ca2e3b6ad4eace7",
+			"url": "/images/background/0ca2e3b6ad4eace7.png"
+		}
+	],
+	"currentBackgroundImageId": "0ca2e3b6ad4eace7",
+	"socialButtons": [
+		{
+			"id": "github",
+			"type": "github",
+			"value": "https://github.com/Axolotl520",
+			"label": "Github",
+			"order": 3
+		},
+		{
+			"id": "juejin",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/3986157550976649",
+			"label": "稀土掘金",
+			"order": 2
+		},
+		{
+			"id": "email",
+			"type": "email",
+			"value": "zhangaxolotl@gmail.com",
+			"label": "",
+			"order": 1
+		}
+	],
+	"clockShowSeconds": true,
+	"summaryInContent": false,
+	"isCachePem": false,
+	"hideEditButton": false,
+	"enableCategories": true,
+	"currentHatIndex": 3,
+	"hatFlipped": false,
+	"enableChristmas": true,
+	"beian": {
+		"text": "",
+		"link": ""
+	}
+}
