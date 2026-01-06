@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "slug": "B2144",
+    "title": "阿克曼（Ackermann）函数",
+    "tags": [
+      "python"
+    ],
+    "date": "2026-01-06T22:48",
+    "summary": "",
+    "hidden": false,
+    "category": "代码实现"
+  }
+]
